@@ -1,0 +1,22 @@
+OBJECTIVE: 
+
+find epitopes in translated sequence and report position in the genome.
+
+BIOCONDA RECIPE FOR BLAST
+
+https://bioconda.github.io/recipes/blast/README.html
+
+DESIDERATA:
+
+
+
+ALIGN ALL EPITOPES TO EACH DENV
+
+
+PLOT PERCENTAGE OF EACH GENOME COVERED BY THESE EPITOPES
+
+
+REPORT POSITION OF THE EPITOPE FOR EACH DENV
+
+
+REPORT EDIT DISTANCE TOGETHER WITH POSITION
